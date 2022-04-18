@@ -1,0 +1,7 @@
+name: Packet-Control-Plugin
+version: '${project.version}'
+main: me.iika.packetcontrolplugin.PacketControlPlugin
+api-version: 1.18
+depend: [ ProtocolLib ]
+authors: [ Iika ]
+description: Take controll of packets with the "packet" command
